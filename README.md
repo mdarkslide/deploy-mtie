@@ -1,13 +1,13 @@
 ```
-# Deployment de Entorno de Producción
+# Deployment de entorno de Producción
 
 ## MTIE - 501
 
-### Inscrucciones a seguir:
+### Instrucciones a seguir:
 
 ### Clonar repositorio
 ```
-git clone https://github.com/mdarkslide/deployMTIE.git
+git clone https://github.com/mdarkslide/deploy-mtie.git
 cd deploy-mtie
 ```
 
